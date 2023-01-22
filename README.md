@@ -17,3 +17,4 @@
 ### Step 4: Set up Continuous Integration, i.e. check code for issues like lint errors
 ![lint failure](https://user-images.githubusercontent.com/47248860/213938422-5d9af99b-2abd-4959-8259-5f17906782bc.png)
 
+finished at testing 41:28

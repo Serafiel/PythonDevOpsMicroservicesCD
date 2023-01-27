@@ -19,4 +19,4 @@
 
 ### Step 5: Build cli using Python Fire library `./cli-fire.py --help` to test logic
 
-1:07:11 Pinning FastAPI version number
+

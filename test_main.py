@@ -1,5 +1,5 @@
-from fastapi import FastAPI
-from fastapi.testclient import TestClient
+# from fastapi import FastAPI
+from starlette.testclient import TestClient
 from main import app
 
 
